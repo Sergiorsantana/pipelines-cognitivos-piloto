@@ -1,0 +1,24 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Execuções novas (os resultados publicados ficam em results/ e figures/)
+results/novo/
+results/execucao_*/
+*.db
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Segredos (chaves de API entram na fase com LLM)
+.env
+*.key
