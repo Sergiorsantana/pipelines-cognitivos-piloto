@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Se usar este material, cite como abaixo."
+title: "Pipelines Cognitivos: estudo piloto da Seção 5.2"
+authors:
+  - family-names: "Santana"
+    given-names: "Sérgio"
+    affiliation: "Centro de Informática, Universidade Federal de Pernambuco"
+version: "1.0.0"
+date-released: "2026-11-10"
+repository-code: "https://github.com/Sergiorsantana/pipelines-cognitivos-piloto"
+license: MIT
